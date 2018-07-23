@@ -1,0 +1,6 @@
+framework module Pods_MultURLSessionsss {
+  umbrella header "Pods-MultURLSessionsss-umbrella.h"
+
+  export *
+  module * { export * }
+}
